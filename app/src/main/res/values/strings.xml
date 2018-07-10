@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitSquare</string>
+    <string name="internet">No internet connection.please make sure your deviece is connected to the internet</string>
+</resources>
